@@ -1,0 +1,1 @@
+[{"imgSrc":"img/5763c8b6N95a0f6c0.jpg","desc":"这是banner焦点图"},{"imgSrc":"img/5763c34aN445acd80.jpg","desc":"这是banner焦点图"},{"imgSrc":"img/5764e3f8N2998d17e.jpg","desc":"这是banner焦点图"},{"imgSrc":"img/57665813N8369c4dc.jpg","desc":"这是banner焦点图"},{"imgSrc":"img/5760bb4aN5b2d7719.jpg","desc":"这是banner焦点图"},{"imgSrc":"img/57635687N6f35b0de.jpg","desc":"这是banner焦点图"}]
