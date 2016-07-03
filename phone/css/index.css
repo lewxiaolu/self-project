@@ -268,7 +268,7 @@ html, body, .swiper-container, .swiper-slide {
 }
 
 .page2{
-    background: url("../img/roll9.gif") no-repeat;
+    background: url("../img/yq0KA1TTNP2AEcO7AACojpOQqwg519.jpg") no-repeat;
     background-size: cover;
 }
 .page2 > div:nth-child(1){
@@ -326,10 +326,13 @@ html, body, .swiper-container, .swiper-slide {
     opacity: 0;
 }
 .page2 .p2-bo{
-    width: 1.6rem;
-    height: .8rem;
+    position: absolute;
+    right: .1rem;
+    margin: .3rem auto 0 auto;
+    width: 2rem;
+    height: 1rem;
     opacity: 0;
-    margin: .8rem 0 0 0.2rem;
+    -webkit-transform: rotate(-10deg);
 }
 .page2 .p2-bo img{
     width: 100%;
@@ -941,7 +944,7 @@ html, body, .swiper-container, .swiper-slide {
 }
 .page4 .p4-contact .p4-right{
     opacity: 0;
-    margin: .5rem 0 .2rem 0;
+    margin: .2rem 0 .2rem 0;
 }
 #page4 .p4-contact .p4-right{
     -webkit-animation: lightSpeedIn .8s ease-in .6s both ;
